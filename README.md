@@ -1,7 +1,7 @@
 # hate-speech-multilabel-classification-with-bert
-
 First posted on [Kaggle](https://www.kaggle.com/code/wesleyacheng/hate-speech-multilabel-classification-with-bert).
 
+# Introduction
 I've recently stumbled upon a very comprehensive dataset on measurement of hate speech from my alma mater, UC Berkeley. It aggregated social media comments from Youtube, Reddit, and Twitter.
 
 The interesting thing about the dataset is the annotator's profile with attributes such as ideology, income, race, and etc. is included in the dataset. This is, unfortunately, uncommon in most social media dataset and so I was intrigued about this.
